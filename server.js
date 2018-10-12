@@ -29,6 +29,10 @@ app.get('/api/related/:id', (req, res) => {
   })
 });
 
+app.get('loaderio-f0fbdc247d9e5fdd314ea744ab456184.txt', (req, res) => {
+  res.send('loaderio-f0fbdc247d9e5fdd314ea744ab456184')
+});
+
 
 // Currently at port 3000
 app.listen(port, () => {
