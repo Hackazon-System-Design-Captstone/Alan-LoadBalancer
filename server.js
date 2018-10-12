@@ -30,7 +30,7 @@ app.get('/api/related/:id', (req, res) => {
 });
 
 app.get('loaderio-01ae0a7f9cd473f691e0bf083ce2486c.txt', (req, res) => {
-  res.send('loaderio-01ae0a7f9cd473f691e0bf083ce2486c')
+  res.send('loaderio-01ae0a7f9cd473f691e0bf083ce2486c');
 });
 
 
