@@ -29,8 +29,8 @@ app.get('/api/related/:id', (req, res) => {
   })
 });
 
-app.get('loaderio-f0fbdc247d9e5fdd314ea744ab456184.txt', (req, res) => {
-  res.send('loaderio-f0fbdc247d9e5fdd314ea744ab456184')
+app.get('loaderio-01ae0a7f9cd473f691e0bf083ce2486c.txt', (req, res) => {
+  res.send('loaderio-01ae0a7f9cd473f691e0bf083ce2486c')
 });
 
 
